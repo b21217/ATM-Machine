@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Mon Aug 14 20:45:56 2023
+# Process ID: 2784
+# Current directory: C:/Users/user/Desktop/practice/atm
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14864 C:\Users\user\Desktop\practice\atm\atm.xpr
+# Log file: C:/Users/user/Desktop/practice/atm/vivado.log
+# Journal file: C:/Users/user/Desktop/practice/atm\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/user/Desktop/practice/atm/atm.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source tb.tcl
+close_sim
